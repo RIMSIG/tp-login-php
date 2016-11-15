@@ -1,0 +1,12 @@
+h1 {
+  color: white;
+  text-align: center
+}
+p {
+  text-align: center
+}
+body {
+  background-color:grey;
+}
+input {
+  color: red ;
